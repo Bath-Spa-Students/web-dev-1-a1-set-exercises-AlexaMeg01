@@ -1,0 +1,32 @@
+
+body{background-color:rgb(36, 36, 36); }
+
+
+.heading1{
+    color:rgb(72, 72, 99);
+    background-color:rgb(164, 222, 218);
+    border: 1pc solid green ;
+    text-align: center;
+    margin: 8px;
+    padding: 5px;
+    font-size: 30px;
+    border-color: rgb(75, 155, 136) ;
+}
+
+.img-style{
+    width : 300px;
+    height : 250px;
+    background-image : url(img/sinigang.png);
+    background-repeat :no-repeat;
+}
+
+
+
+#S3{
+    border: 1px;
+    height: 250px;
+    width : 299px;
+    background-image : url(img/sinigang.png);
+    border-image-outset: 1px;}
+
+
