@@ -23,7 +23,7 @@ body{background-color:#ddd; }
     color: black;
   }
   
-  /* Add an active class to highlight the current page */
+
   .Menu a.active {
     background-color: #04AA6D;
     color: white;
