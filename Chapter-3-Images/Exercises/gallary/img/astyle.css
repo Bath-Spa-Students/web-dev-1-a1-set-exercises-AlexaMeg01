@@ -18,21 +18,24 @@
 
 div.gallery {
   border: 1px solid #ccc;
+  
 }
 
 div.gallery:hover {
   border: 1px solid #e0e0e0;
+  
 }
 
 div.gallery img {
-  width: 100%;
-  height: auto;
+  width: 345px;
+  height: 15cm;
 }
 
 div.desc {
   padding: 15px;
   text-align: center;
   color: #f1f1f1;
+  
 }
 
 * {
@@ -43,12 +46,13 @@ div.desc {
   padding: 16px;
   float: left;
   width: 24.99999%;
+  margin:60px;
 }
 
 @media only screen and (max-width: 700px) {
   .responsive {
     width: 49.99999%;
-    margin: 6px 0;
+    margin: 6%;
   }
 }
 
@@ -62,6 +66,14 @@ div.desc {
   content: "";
   display: table;
   clear: both;
+}
+
+.img{
+  width: 10%;
+}
+
+.img2{
+  width: 10%;
 }
 
 .img{
