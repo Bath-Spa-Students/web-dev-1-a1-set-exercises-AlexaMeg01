@@ -1,0 +1,92 @@
+/*navbar*/
+body{
+    margin: 0;
+}
+
+header{
+    background-color:#17072B;
+    padding-top: 2px;    
+}
+
+.navbar{
+    color: #ffffff;
+    text-align: center;
+    font-size: 30px;
+    padding: 1%;
+    font-family: Tahoma;
+}
+
+.navbar h1,a{   
+    color: #ffffff;
+    text-decoration: underline  ;
+}
+
+.navbar a{
+    padding: 10px;
+    text-decoration: none;
+}
+
+/*Welcome*/
+.text{
+    font-family: Arial;
+    position: absolute;
+}
+
+.text h1{
+    margin-left: 20px;
+    font-size: 40px;
+    text-decoration: underline;
+}
+
+.text p{
+    font-size: 20px;
+    margin-left: 20px;
+}
+
+.text img{
+    width:59%;
+    height: 10%;
+    margin-left: 20px;
+}
+/*Line Up*/
+.line {
+    margin-top: 7px;
+    margin-left: 63%;
+    font-family: Arial;
+    background-color: #172d67;
+    float:right;
+    position: relative;
+    padding-left:2% ;
+}
+
+.line h1{
+    color: #ffffff;
+    font-size: 40px;
+    text-decoration: underline;
+
+
+}
+
+.line p{
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.line img {
+    width: 45%;
+    margin-right: auto;
+    margin-bottom:30px ;
+    margin-left: auto;
+}
+
+/*Digi*/
+
+.digi {
+    text-align: center;
+    background-color: #8c15e9;
+    margin-top:15px;
+    margin-bottom:-10px;
+    padding-bottom: 1px; 
+    padding: 1px;
+    color: #ffffff;
+}
